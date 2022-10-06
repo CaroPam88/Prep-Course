@@ -8,12 +8,14 @@ function mayuscula(nombre) {
   var name = aux + nombre.slice(1)
   return name;
 
+
 }
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`
   //Tu código:
   cb ();
+  
 }
 
 function operacionMatematica(n1, n2, cb) {
@@ -35,6 +37,8 @@ function sumarArray(numeros, cb) {
     total = total + numeros[i];
   }
   cb(total);
+
+  
 }
 
 function forEach(array, cb) {
@@ -44,6 +48,7 @@ function forEach(array, cb) {
   array.forEach (function (a){
     cb(a);
   })
+  
 }
 
 function map(array, cb) {
@@ -55,6 +60,8 @@ function map(array, cb) {
     return cb(elementos)
   });
   return newarray;
+
+ 
 }
 
 function filter(array) {
@@ -65,6 +72,7 @@ function filter(array) {
     return elemento[0] === "a";
   })
   return Filtrar;
+
     
 }
 
