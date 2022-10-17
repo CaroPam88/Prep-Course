@@ -1,0 +1,19 @@
+
+//Variables--> Una variable es una manera de guardar información de valor que vamos a utilizar después. Las mismas las podemos dividir en:
+//VAR--> Va seguida de un = y lo que queremos expresar en ella.
+//LET--> Declara una variable en bloque;
+//CONST--> es una variable que no se va a poder modificar.
+
+
+//STRING--> Son cadenas que almacenan datos en forma de texto. Se definen entre comillas.
+
+//FUNCIONES--> Una vez obtenidas las variables, debemos tener funciones para calcularlas.
+            // Al declarar una función, comenzamos con la palabra FUNCTION, luego el nombre que definirá la función, los parámetros que 
+           // que tenga entre paréntesis y separados por comas y las declaraciones de Javascript que definen esa función encerradas entre llaves.
+           // ARGUMENTOS--> Son los razonamientos que colocaremos dentro de las FUNCIONES.
+           // RETURN--> Finaliza la ejecución de la función y especifica un valor que devolverá la función.
+
+//DECLARACIONES--> Utilizaremos el IF cuando queremos que el problema ejecute un bloque de código, para retornarnos un resultado 
+                 //verdadero, de lo contrario, será falsa.
+
+//VALORES BOOLEANOS--> Son expresiones que evalúan si el cumplimiento de una condición es verdadera o falsa.
