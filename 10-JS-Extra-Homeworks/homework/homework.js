@@ -138,7 +138,7 @@ function buscoInterseccion(arreglo1, arreglo2){
     for (var j =0; j<arreglo2.length; j++){
      if(arreglo1[i] == arreglo2[j]){
      repetidos.push(arreglo1[i])
-  }
+    }
   }
   }
   return repetidos
