@@ -1,0 +1,7 @@
+
+//CALLBACKS-> Es una fincuión que tiene la capacidad de pasar una función como argumento a otra función,
+//            para ser invocada dentro de esa "OTRA FUNCIÓN" para completar una acción.
+//
+//CALLBACK SINCRÓNICA-> Se ejecuta inmediatamente.
+//
+//CALLBACK ASINCRÓNICO-> Se ejecutará posteriormente.
