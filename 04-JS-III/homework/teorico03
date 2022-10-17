@@ -1,0 +1,8 @@
+
+// ARRAYS-> Es una colección o una agrupación de elementos en una misma variable, cada uno de ellos ocupando una posición.
+//Para declarar una matriz,  declaramos una variable y la establecemos dentro de corchetes, dentro de él, podemos agregar números, booleanos, strings, siempre separados por coma.
+// La propiedad .Length  es la encargada de contar cuantos carácteres contiene la matriz. 
+// la propiedad .pop elimina el último elemento de la matriz.
+// La propiedad .push agrega un elemento al final de la matriz.
+// La propiedad .shift elimina el primer elemento de una matriz.
+// La propiedad .unshith agrega un elemento en la primera posición de una matriz.
