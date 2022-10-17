@@ -1,0 +1,10 @@
+
+//PROTOTYPE-> Son un mecanismo por el cual los objetos heredan características entre sí. 
+//            Actúa como un objeto plantilla que hereda métodos y propiedades.
+//            Los métodos prototype usan la palabra clave THIS  que apuntará al objeto a su lado.
+//
+//OBJECT.CREATE-> Nos permite crear un nuevo objeto a partir de un prototype esecificado.
+//
+//OBJECT.ASSIGN-> Nos permite agregar propiedades a un objeto pasado por parámetro.
+//
+//CONSTRUCTORES-> El método constructor es un método que utilizamos para crear un objeto a partir de una clase.
