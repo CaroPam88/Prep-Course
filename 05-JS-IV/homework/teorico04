@@ -1,0 +1,17 @@
+
+//OBJETOS-> Contienen mucha información sobre una sola cosa. Se instancian llevando llaves. 
+//          La sintáxis que utliza es clave: valor, donde la clave es la que va a identificar y el 
+//          valor es el valor que guardaremos en esta clave.
+//          Las claves son únicas en un objeto, aunque varias claves pueden tener el mismo valor. 
+//          Los valores pueden ser cadena, booleano, número, matriz, función o incluso, otro objeto.
+
+//NOTACIÓN DE PUNTOS-> Podemos llamar al nombre del objeto usando un punto y el nombre de la clave.
+
+//NOTACIÓN DE CORCHETES-> LLamaremos un elemento  de una matriz y envolviéndola entre comillas. [""]
+
+// MÉTODOS-> Son las funciones que guardamos en un objeto.
+
+//BLOQUE "FOR...IN"-> Itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas.
+
+//PROPIEDADES-> .THIS-> los objetos tienen una palabra clave autorreferencial que es .this. Cuando se llama dentro de un objeto, 
+//                      se refiere a ese mimo objeto.
